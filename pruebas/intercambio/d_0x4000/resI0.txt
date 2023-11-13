@@ -1,0 +1,6 @@
+system.cpu.numCycles                          1858239                       # Number of cpu cycles simulated (Cycle)
+system.cpu.cpi                               6.795237                       # CPI: cycles per instruction (core level) ((Cycle/Count))
+system.cpu.ipc                               0.147162                       # IPC: instructions per cycle (core level) ((Count/Cycle))
+system.cpu.dcache.overallMissRate::total     0.119420                       # miss rate for overall accesses (Ratio)
+system.cpu.icache.overallMissRate::total     0.001157                       # miss rate for overall accesses (Ratio)
+system.l2.overallMissRate::total             0.165360                       # miss rate for overall accesses (Ratio)
